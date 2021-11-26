@@ -1,5 +1,3 @@
-[![AliwerErgashev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliwerErgashev&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,6 +16,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+[![AliwerErgashev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliwerErgashev&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
