@@ -23,6 +23,8 @@
 
 [![AliwerErgashev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliwerErgashev&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/alisher"><img src="https://api.daily.dev/devcards/95c02e63aafa447388331e6c2397aec5.png?r=7x4" width="400" alt="Alisher Ergashev's Dev Card"/></a>
+
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
